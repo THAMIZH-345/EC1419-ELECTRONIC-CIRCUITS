@@ -7,6 +7,12 @@
 
 
 ## Tabulations 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/8f66d28a-61ce-4b26-a582-27afe1bc5491" />
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/50b2c8ea-46f5-46de-b466-9e1f08d8c246" />
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/7218ac57-304d-4901-8b44-c5b13fbc4e90" />
+
 
 ## Semilog Graph
 
