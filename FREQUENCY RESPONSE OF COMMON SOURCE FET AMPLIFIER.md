@@ -10,6 +10,9 @@
 # Tabulation with readings
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/691d97c3-3c98-4f3d-bed5-608948cda4c7" />
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/bf9d50d2-4917-47e8-9091-13ff4da97fee" />
+
+
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/f2862c42-9368-4242-9a49-dfc8f5e23da3" />
 
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/af87ff73-2795-4218-b69f-46440353da13" />
